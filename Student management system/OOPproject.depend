@@ -1,0 +1,110 @@
+# depslib dependency file v1.0
+1635967121 source:f:\2.1\cse 4302 oop lab\labproject\oopproject\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+	<conio.h>
+	<stdlib.h>
+	"Admin.h"
+	"Teacher.h"
+	"password.h"
+	"Menu.h"
+
+1635910002 f:\2.1\cse 4302 oop lab\labproject\oopproject\include\admin.h
+	"Student.h"
+	<bits/stdc++.h>
+	<fstream>
+	<iomanip>
+
+1635909904 f:\2.1\cse 4302 oop lab\labproject\oopproject\include\student.h
+
+1635909992 f:\2.1\cse 4302 oop lab\labproject\oopproject\include\teacher.h
+	"Student.h"
+	<bits/stdc++.h>
+	<fstream>
+	<iomanip>
+
+1635910198 f:\2.1\cse 4302 oop lab\labproject\oopproject\include\password.h
+	<bits/stdc++.h>
+	<fstream>
+	<iomanip>
+
+1635966235 f:\2.1\cse 4302 oop lab\labproject\oopproject\include\menu.h
+	<bits/stdc++.h>
+
+1635966543 source:f:\2.1\cse 4302 oop lab\labproject\oopproject\src\admin.cpp
+	"Admin.h"
+
+1635966638 source:f:\2.1\cse 4302 oop lab\labproject\oopproject\src\menu.cpp
+	"Menu.h"
+
+1635910222 source:f:\2.1\cse 4302 oop lab\labproject\oopproject\src\password.cpp
+	"Password.h"
+
+1635910376 source:f:\2.1\cse 4302 oop lab\labproject\oopproject\src\student.cpp
+	"Student.h"
+
+1635910050 source:f:\2.1\cse 4302 oop lab\labproject\oopproject\src\teacher.cpp
+	"Teacher.h"
+
+1636605387 source:d:\oopproject\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+	<conio.h>
+	<stdlib.h>
+	"Admin.h"
+	"Teacher.h"
+	"password.h"
+	"Menu.h"
+
+1636605381 d:\oopproject\include\admin.h
+	"Student.h"
+	"User.h"
+	<bits/stdc++.h>
+	<fstream>
+	<iomanip>
+
+1636604833 d:\oopproject\include\student.h
+	"User.h"
+	<bits/stdc++.h>
+
+1636571986 d:\oopproject\include\teacher.h
+	"Student.h"
+	<bits/stdc++.h>
+	<fstream>
+	<iomanip>
+	"User.h"
+
+1636043942 d:\oopproject\include\password.h
+	<bits/stdc++.h>
+	<fstream>
+	<iomanip>
+
+1636044278 d:\oopproject\include\menu.h
+	<bits/stdc++.h>
+
+1636618921 source:d:\oopproject\src\admin.cpp
+	"Admin.h"
+
+1636605280 source:d:\oopproject\src\menu.cpp
+	"Menu.h"
+
+1636573144 source:d:\oopproject\src\password.cpp
+	"Password.h"
+
+1636621486 source:d:\oopproject\src\student.cpp
+	"Student.h"
+
+1636621705 source:d:\oopproject\src\teacher.cpp
+	"Teacher.h"
+
+1636028077 d:\oopproject\include\user.h
+
+1636028150 source:d:\oopproject\src\user.cpp
+	"User.h"
+
